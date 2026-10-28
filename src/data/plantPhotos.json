@@ -1,0 +1,3012 @@
+{
+ "creeping-thyme": {
+  "taxonId": 322051,
+  "taxonName": "Thymus serpyllum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/147682040/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/147682040/square.jpg",
+    "attribution": "(c) Viktoria, some rights reserved (CC BY-NC), uploaded by Viktoria",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85608528/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/85608528/square.jpeg",
+    "attribution": "(c) Víctor Huete Pelaez, some rights reserved (CC BY-NC), uploaded by Víctor Huete Pelaez",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/154701696/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/154701696/square.jpg",
+    "attribution": "(c) josefwirth, some rights reserved (CC BY-NC), uploaded by josefwirth",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83807741/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/83807741/square.jpg",
+    "attribution": "(c) Sergei A. Antipov, some rights reserved (CC BY-NC), uploaded by Sergei A. Antipov",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/85635059/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/85635059/square.jpeg",
+    "attribution": "(c) bobykvv, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "creeping-phlox": {
+  "taxonId": 68884,
+  "taxonName": "Phlox subulata",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/36087958/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/36087958/square.jpg",
+    "attribution": "(c) biscuitsadventures, some rights reserved (CC BY-NC), uploaded by biscuitsadventures",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37068949/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/37068949/square.jpg",
+    "attribution": "(c) Stellar star, some rights reserved (CC BY-NC), uploaded by Stellar star",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171416603/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/171416603/square.jpeg",
+    "attribution": "(c) sprinklestheu, some rights reserved (CC BY-NC), uploaded by sprinklestheu",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342747116/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/342747116/square.jpg",
+    "attribution": "(c) Molly Frattasio, some rights reserved (CC BY-NC), uploaded by Molly Frattasio",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198240519/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/198240519/square.jpg",
+    "attribution": "(c) Blake Ross, some rights reserved (CC BY), uploaded by Blake Ross",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "sweet-woodruff": {
+  "taxonId": 56065,
+  "taxonName": "Galium odoratum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/74944506/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/74944506/square.jpg",
+    "attribution": "(c) Janine Desmond, some rights reserved (CC BY-ND), uploaded by Janine Desmond",
+    "license": "cc-by-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/597302423/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/597302423/square.jpg",
+    "attribution": "no rights reserved, uploaded by Peter de Lange",
+    "license": "cc0"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10478/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10478/square.jpg",
+    "attribution": "(c) Joy, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/398650755/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/398650755/square.jpeg",
+    "attribution": "(c) Gabriel Campbell-Martinez, some rights reserved (CC BY), uploaded by Gabriel Campbell-Martinez",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10471/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10471/square.jpg",
+    "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "ajuga": {
+  "taxonId": 56099,
+  "taxonName": "Ajuga reptans",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/28863996/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/28863996/square.jpeg",
+    "attribution": "(c) Dr. Nasser Halaweh, some rights reserved (CC BY), uploaded by Dr. Nasser Halaweh",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10976862/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10976862/square.jpeg",
+    "attribution": "(c) Phil Bendle, some rights reserved (CC BY-NC), uploaded by Phil Bendle",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/130457143/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/130457143/square.jpg",
+    "attribution": "(c) Анна, some rights reserved (CC BY-NC), uploaded by Анна",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10543/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10543/square.jpg",
+    "attribution": "(c) Bas Kers, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10542/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10542/square.jpg",
+    "attribution": "(c) Bastiaan, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   }
+  ]
+ },
+ "pachysandra": {
+  "taxonId": 142928,
+  "taxonName": "Pachysandra terminalis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111375239/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111375239/square.jpeg",
+    "attribution": "(c) Algirdas, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111242929/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111242929/square.jpg",
+    "attribution": "(c) Carl Lewis, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111242931/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111242931/square.jpg",
+    "attribution": "(c) Carl Lewis, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111375240/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111375240/square.jpg",
+    "attribution": "(c) Krzysztof Ziarnek, Kenraiz, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37956733/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/37956733/square.jpg",
+    "attribution": "(c) sallydv, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "lambs-ear": {
+  "taxonId": 127480,
+  "taxonName": "Stachys byzantina",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79772623/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/79772623/square.jpeg",
+    "attribution": "(c) Felix Riegel, some rights reserved (CC BY-NC), uploaded by Felix Riegel",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/44263114/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/44263114/square.jpg",
+    "attribution": "(c) mallaliev, some rights reserved (CC BY-NC), uploaded by mallaliev",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8483677/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8483677/square.jpg",
+    "attribution": "(c) bahar_baku, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "creeping-jenny": {
+  "taxonId": 51809,
+  "taxonName": "Lysimachia nummularia",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/519657907/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/519657907/square.jpg",
+    "attribution": "(c) miroslavamalovcova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178621127/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/178621127/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9286831/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/9286831/square.jpg",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/178620951/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/178620951/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63541070/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/63541070/square.jpeg",
+    "attribution": "(c) Algis Kvaraciejus, some rights reserved (CC BY-NC), uploaded by Algis Kvaraciejus",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "hosta": {
+  "taxonId": 82095,
+  "taxonName": "Hosta",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/297985004/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/297985004/square.jpg",
+    "attribution": "(c) Ivan, some rights reserved (CC BY-NC), uploaded by Ivan",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84247093/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/84247093/square.jpeg",
+    "attribution": "(c) luciole30, some rights reserved (CC BY-NC), uploaded by luciole30",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56263461/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/56263461/square.jpg",
+    "attribution": "(c) 空猫, some rights reserved (CC BY-NC), uploaded by 空猫",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219343298/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/219343298/square.jpeg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY), uploaded by Marco Mussita",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84517417/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/84517417/square.jpg",
+    "attribution": "(c) Janet Novak, some rights reserved (CC BY-NC), uploaded by Janet Novak",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "blue-fescue": {
+  "taxonId": 431011,
+  "taxonName": "Festuca glauca",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/123857131/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/123857131/square.jpg",
+    "attribution": "(c) KaShermanOaks, some rights reserved (CC BY-NC), uploaded by KaShermanOaks",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/214442294/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/214442294/square.jpeg",
+    "attribution": "(c) wolff christiane, some rights reserved (CC BY-NC), uploaded by wolff christiane",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "wild-strawberry": {
+  "taxonId": 77155,
+  "taxonName": "Fragaria virginiana",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/600014255/square.jpg",
+    "attribution": "(c) Abby Hyde, some rights reserved (CC BY), uploaded by Abby Hyde",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72029783/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/72029783/square.jpeg",
+    "attribution": "(c) psweet, some rights reserved (CC BY-SA), uploaded by psweet",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449914944/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/449914944/square.jpg",
+    "attribution": "(c) MikoFox, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47850761/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/47850761/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9042713/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/9042713/square.jpeg",
+    "attribution": "(c) Jason Grant, some rights reserved (CC BY), uploaded by Jason Grant",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "bearberry": {
+  "taxonId": 68049,
+  "taxonName": "Arctostaphylos uva-ursi",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/341201715/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/341201715/square.jpg",
+    "attribution": "(c) Remington Tengs Jackson, some rights reserved (CC BY-NC), uploaded by Remington Tengs Jackson",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31743312/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/31743312/square.jpeg",
+    "attribution": "(c) Dmitry Ivanov, some rights reserved (CC BY-NC), uploaded by Dmitry Ivanov",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/249649192/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/249649192/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318625966/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/318625966/square.jpg",
+    "attribution": "(c) Brian Starzomski, some rights reserved (CC BY-NC), uploaded by Brian Starzomski",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52784430/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/52784430/square.jpeg",
+    "attribution": "(c) Syd Cannings, some rights reserved (CC BY), uploaded by Syd Cannings",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "ice-plant": {
+  "taxonId": 144018,
+  "taxonName": "Delosperma cooperi",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/628536207/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/628536207/square.jpg",
+    "attribution": "(c) Connor Ryan, some rights reserved (CC BY-NC), uploaded by Connor Ryan",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/417286384/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/417286384/square.jpeg",
+    "attribution": "(c) Alexandre Leroy Delande, some rights reserved (CC BY-NC), uploaded by Alexandre Leroy Delande",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4065325/medium.JPG",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4065325/square.JPG",
+    "attribution": "(c) Mike, some rights reserved (CC BY-NC), uploaded by Mike",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/212732843/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/212732843/square.jpg",
+    "attribution": "(c) Francesco Vidotto, some rights reserved (CC BY-NC), uploaded by Francesco Vidotto",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/511804695/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/511804695/square.jpg",
+    "attribution": "(c) spirula, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "liriope": {
+  "taxonId": 223938,
+  "taxonName": "Liriope muscari",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81425626/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/81425626/square.jpeg",
+    "attribution": "(c) scohlendorf, some rights reserved (CC BY), uploaded by scohlendorf",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/219354215/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/219354215/square.jpg",
+    "attribution": "(c) ao-ka, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53839371/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/53839371/square.jpg",
+    "attribution": "(c) JAxworthy, some rights reserved (CC BY-NC), uploaded by JAxworthy",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/251528244/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/251528244/square.jpeg",
+    "attribution": "(c) WATANABE Hitoshi 渡辺仁, some rights reserved (CC BY), uploaded by WATANABE Hitoshi 渡辺仁",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229519407/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/229519407/square.jpeg",
+    "attribution": "no rights reserved, uploaded by andrew2285",
+    "license": "cc0"
+   }
+  ]
+ },
+ "mondo-grass": {
+  "taxonId": 200061,
+  "taxonName": "Ophiopogon japonicus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29947648/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/29947648/square.jpeg",
+    "attribution": "(c) Keita Watanabe, some rights reserved (CC BY-NC), uploaded by Keita Watanabe",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45308001/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/45308001/square.jpg",
+    "attribution": "(c) mmn_noriko, some rights reserved (CC BY-NC), uploaded by mmn_noriko",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/310213/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/310213/square.jpg",
+    "attribution": "(c) vikisuzan, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/166596524/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/166596524/square.jpeg",
+    "attribution": "no rights reserved, uploaded by 卢江离",
+    "license": "cc0"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165822108/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/165822108/square.jpg",
+    "attribution": "(c) jake_wade03, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "lavender": {
+  "taxonId": 133395,
+  "taxonName": "Lavandula angustifolia",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157057/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/157057/square.jpg",
+    "attribution": "(c) epicnom, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2697772/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2697772/square.jpg",
+    "attribution": "(c) Andrey Zharkikh, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2697773/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2697773/square.jpg",
+    "attribution": "(c) Andrey Zharkikh, some rights reserved (CC BY)",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "boxwood": {
+  "taxonId": 133400,
+  "taxonName": "Buxus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/221901/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/221901/square.jpg",
+    "attribution": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/38332298/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/38332298/square.jpeg",
+    "attribution": "(c) ian_burkhardt, some rights reserved (CC BY-NC), uploaded by ian_burkhardt",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34424653/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/34424653/square.jpg",
+    "attribution": "(c) Alexey P. Seregin, some rights reserved (CC BY-NC), uploaded by Alexey P. Seregin",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/236705895/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/236705895/square.jpg",
+    "attribution": "(c) catiscat, some rights reserved (CC BY-NC), uploaded by catiscat",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/63165470/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/63165470/square.jpg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY), uploaded by Marco Mussita",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "bigleaf-hydrangea": {
+  "taxonId": 122034,
+  "taxonName": "Hydrangea macrophylla",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/45518546/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/45518546/square.jpg",
+    "attribution": "(c) miyuu, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/66619893/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/66619893/square.jpg",
+    "attribution": "(c) Rino, some rights reserved (CC BY-NC), uploaded by Rino",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31091656/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/31091656/square.jpg",
+    "attribution": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/142491973/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/142491973/square.jpg",
+    "attribution": "(c) jtmudge, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84469055/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/84469055/square.jpeg",
+    "attribution": "(c) Peter Georg, some rights reserved (CC BY-NC), uploaded by Peter Georg",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "spirea": {
+  "taxonId": 125790,
+  "taxonName": "Spiraea japonica",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449207/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/449207/square.jpg",
+    "attribution": "(c) beautifulcataya, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/54692148/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/54692148/square.jpeg",
+    "attribution": "(c) reteid, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8517943/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8517943/square.jpeg",
+    "attribution": "(c) leah_ranger, some rights reserved (CC BY-NC), uploaded by leah_ranger",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49170920/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/49170920/square.jpg",
+    "attribution": "(c) SpyingNaturalist, some rights reserved (CC BY-NC), uploaded by SpyingNaturalist",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4686902/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4686902/square.jpg",
+    "attribution": "(c) Andy Warren, some rights reserved (CC BY-NC), uploaded by Andy Warren",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "azalea": {
+  "taxonId": 49487,
+  "taxonName": "Rhododendron",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189482147/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/189482147/square.jpg",
+    "attribution": "(c) Guy L. Monty, some rights reserved (CC BY-NC), uploaded by Guy L. Monty",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111968650/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111968650/square.jpeg",
+    "attribution": "(c) elenasuslova, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157897282/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/157897282/square.jpg",
+    "attribution": "(c) Keith Martin-Smith, some rights reserved (CC BY-NC-SA), uploaded by Keith Martin-Smith",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/202158452/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/202158452/square.jpg",
+    "attribution": "(c) bobkennedy, some rights reserved (CC BY-SA), uploaded by bobkennedy",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84864140/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/84864140/square.jpeg",
+    "attribution": "(c) Albert Kang, some rights reserved (CC BY-NC), uploaded by Albert Kang",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "knockout-rose": {
+  "taxonId": 53438,
+  "taxonName": "Rosa",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128386918/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/128386918/square.jpeg",
+    "attribution": "(c) lamprisdimitris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50016224/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/50016224/square.jpg",
+    "attribution": "(c) Юрий Данилевский (Yuriy Danilevsky), some rights reserved (CC BY), uploaded by Юрий Данилевский (Yuriy Danilevsky)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/239297896/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/239297896/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76294001/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/76294001/square.jpeg",
+    "attribution": "(c) J. Richard Abbott, some rights reserved (CC BY-NC), uploaded by J. Richard Abbott",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4723422/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4723422/square.jpg",
+    "attribution": "(c) arnel, some rights reserved (CC BY-NC), uploaded by arnel",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "blueberry": {
+  "taxonId": 52740,
+  "taxonName": "Vaccinium corymbosum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216577733/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/216577733/square.jpg",
+    "attribution": "(c) mamiles, some rights reserved (CC BY-NC-ND), uploaded by mamiles",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108384/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/283108384/square.jpeg",
+    "attribution": "(c) Brian Charles, some rights reserved (CC BY-NC), uploaded by Brian Charles",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/19093/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/19093/square.jpg",
+    "attribution": "(c) Annkatrin Rose, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/266817575/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/266817575/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49390093/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/49390093/square.jpg",
+    "attribution": "(c) glutick, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "russian-sage": {
+  "taxonId": 941713,
+  "taxonName": "Salvia yangii",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769817/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769817/square.jpeg",
+    "attribution": "(c) Martin A. Prinz, some rights reserved (CC BY-NC), uploaded by Martin A. Prinz",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/260543794/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/260543794/square.jpeg",
+    "attribution": "(c) Jasmine Star Outdoor Photography, some rights reserved (CC BY-NC), uploaded by Jasmine Star Outdoor Photography",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/422387109/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/422387109/square.jpeg",
+    "attribution": "(c) elizasucho, some rights reserved (CC BY-NC), uploaded by elizasucho",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769785/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769785/square.jpeg",
+    "attribution": "(c) Martin A. Prinz, some rights reserved (CC BY-NC), uploaded by Martin A. Prinz",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/334295590/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/334295590/square.jpg",
+    "attribution": "\nM.S. del, J.N.Fitch, lith., no known copyright restrictions (public domain)",
+    "license": "pd"
+   }
+  ]
+ },
+ "fothergilla": {
+  "taxonId": 131645,
+  "taxonName": "Fothergilla gardenii",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/216947576/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/216947576/square.jpg",
+    "attribution": "(c) Lucas Schrader, some rights reserved (CC BY-NC), uploaded by Lucas Schrader",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/284912708/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/284912708/square.jpg",
+    "attribution": "Chhe, no known copyright restrictions (public domain)",
+    "license": "pd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76595586/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/76595586/square.jpg",
+    "attribution": "(c) Michele Dorsey Walfred, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/271294153/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/271294153/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/76595588/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/76595588/square.jpg",
+    "attribution": "(c) Distant Hill Gardens, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "winterberry": {
+  "taxonId": 61119,
+  "taxonName": "Ilex verticillata",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53818150/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/53818150/square.jpg",
+    "attribution": "(c) Paul Donahue, some rights reserved (CC BY-NC), uploaded by Paul Donahue",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/318338489/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/318338489/square.jpeg",
+    "attribution": "(c) mhalsted, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/256248084/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/256248084/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2177265/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2177265/square.jpg",
+    "attribution": "(c) Clayton D'Orsay, some rights reserved (CC BY-NC), uploaded by Clayton D'Orsay",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2520394/medium.JPG",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2520394/square.JPG",
+    "attribution": "(c) Chia aka Cory Chiappone, some rights reserved (CC BY-NC), uploaded by Chia aka Cory Chiappone",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "feather-reed-grass": {
+  "taxonId": 488788,
+  "taxonName": "Calamagrostis × acutiflora",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/305886393/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/305886393/square.jpg",
+    "attribution": "(c) chelseaandoh, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "rosemary": {
+  "taxonId": 636795,
+  "taxonName": "Salvia rosmarinus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/466148684/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/466148684/square.jpg",
+    "attribution": "(c) Sergio Ibarra, some rights reserved (CC BY-NC), uploaded by Sergio Ibarra",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91642813/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/91642813/square.jpg",
+    "attribution": "(c) hoja, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/173884858/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/173884858/square.jpeg",
+    "attribution": "(c) Παναγιώτης Ραφαηλίδης, some rights reserved (CC BY-NC), uploaded by Παναγιώτης Ραφαηλίδης",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/171057715/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/171057715/square.jpeg",
+    "attribution": "(c) Nuno Veríssimo P., some rights reserved (CC BY-NC-SA), uploaded by Nuno Veríssimo P.",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "mugo-pine": {
+  "taxonId": 135727,
+  "taxonName": "Pinus mugo",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90409560/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/90409560/square.jpeg",
+    "attribution": "(c) miwa98, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/177551101/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/177551101/square.jpg",
+    "attribution": "(c) Светлана Нестерова, some rights reserved (CC BY-NC), uploaded by Светлана Нестерова",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448863431/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/448863431/square.jpg",
+    "attribution": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/448684451/medium.png",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/448684451/square.png",
+    "attribution": "(c) Li Jianong, some rights reserved (CC BY-NC), uploaded by Li Jianong",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71581891/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/71581891/square.jpeg",
+    "attribution": "(c) Roger, some rights reserved (CC BY-NC), uploaded by Roger",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "lilac": {
+  "taxonId": 83072,
+  "taxonName": "Syringa vulgaris",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/131487901/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/131487901/square.jpeg",
+    "attribution": "(c) Игорь Поспелов, some rights reserved (CC BY-NC), uploaded by Игорь Поспелов",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7016217/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7016217/square.jpg",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/73700727/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/73700727/square.jpeg",
+    "attribution": "(c) drweltschmerz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37099920/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/37099920/square.jpeg",
+    "attribution": "(c) mako33861, some rights reserved (CC BY-NC), uploaded by mako33861",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/42528862/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/42528862/square.jpeg",
+    "attribution": "(c) Zdeňka Nováková, some rights reserved (CC BY-NC), uploaded by Zdeňka Nováková",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "forsythia": {
+  "taxonId": 411276,
+  "taxonName": "Forsythia × intermedia",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3369427/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3369427/square.jpg",
+    "attribution": "(c) Dr. Boli, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1744222/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1744222/square.jpg",
+    "attribution": "(c) alderash, some rights reserved (CC BY-NC), uploaded by alderash",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3369428/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3369428/square.jpg",
+    "attribution": "(c) Maggie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122919/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/122919/square.jpg",
+    "attribution": "(c) -NjuTIKA-, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/122920/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/122920/square.jpg",
+    "attribution": "(c) Scamperdale, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "limelight-hydrangea": {
+  "taxonId": 133390,
+  "taxonName": "Hydrangea paniculata",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56235268/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/56235268/square.jpg",
+    "attribution": "(c) 空猫, some rights reserved (CC BY-NC), uploaded by 空猫",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146828813/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/146828813/square.jpg",
+    "attribution": "(c) 空猫, some rights reserved (CC BY-NC), uploaded by 空猫",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "doublefile-viburnum": {
+  "taxonId": 170203,
+  "taxonName": "Viburnum plicatum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449392/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/449392/square.jpg",
+    "attribution": "(c) Steven Severinghaus, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17948862/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/17948862/square.jpg",
+    "attribution": "(c) ThePrairiePreacher, some rights reserved (CC BY-NC), uploaded by ThePrairiePreacher",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126414722/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/126414722/square.jpg",
+    "attribution": "(c) Hans Holbrook, some rights reserved (CC BY-NC), uploaded by Hans Holbrook",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82420898/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82420898/square.jpeg",
+    "attribution": "(c) Steve King, some rights reserved (CC BY-NC), uploaded by Steve King",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/72392260/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/72392260/square.jpeg",
+    "attribution": "(c) 王錦堯（Ong Jin Yao）, some rights reserved (CC BY-NC), uploaded by 王錦堯（Ong Jin Yao）",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "arborvitae": {
+  "taxonId": 54037,
+  "taxonName": "Thuja occidentalis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4684247/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4684247/square.jpeg",
+    "attribution": "(c) Donna Pomeroy, some rights reserved (CC BY-NC), uploaded by Donna Pomeroy",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/120128278/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/120128278/square.jpeg",
+    "attribution": "(c) Owen Clarkin, some rights reserved (CC BY-NC), uploaded by Owen Clarkin",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541741304/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/541741304/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4411854/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4411854/square.jpg",
+    "attribution": "(c) Lee, seong-won, some rights reserved (CC BY-NC), uploaded by Lee, seong-won",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4257853/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4257853/square.jpg",
+    "attribution": "(c) Joe Walewski, some rights reserved (CC BY-NC), uploaded by Joe Walewski",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "smokebush": {
+  "taxonId": 133366,
+  "taxonName": "Cotinus coggygria",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136745491/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/136745491/square.jpg",
+    "attribution": "(c) Jeremy Schewe, some rights reserved (CC BY-NC), uploaded by Jeremy Schewe",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/615494237/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/615494237/square.jpg",
+    "attribution": "(c) Platon Kleanthidis, some rights reserved (CC BY-NC), uploaded by Platon Kleanthidis",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21910652/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/21910652/square.jpg",
+    "attribution": "(c) Roman, some rights reserved (CC BY), uploaded by Roman",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281020949/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/281020949/square.jpg",
+    "attribution": "(c) juber36, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82279553/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82279553/square.jpg",
+    "attribution": "(c) Annette Geiser-Barkhausen, some rights reserved (CC BY-NC), uploaded by Annette Geiser-Barkhausen",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "witch-hazel": {
+  "taxonId": 1231667,
+  "taxonName": "Hamamelis × intermedia",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60205851/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/60205851/square.jpeg",
+    "attribution": "(c) Mathieu Gilbert, some rights reserved (CC BY-NC), uploaded by Mathieu Gilbert",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59806144/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/59806144/square.jpeg",
+    "attribution": "(c) Patricia, some rights reserved (CC BY-NC), uploaded by Patricia",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64952351/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/64952351/square.jpeg",
+    "attribution": "(c) Jef Taylor, some rights reserved (CC BY-NC), uploaded by Jef Taylor",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "camellia": {
+  "taxonId": 83056,
+  "taxonName": "Camellia japonica",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114800079/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/114800079/square.jpg",
+    "attribution": "(c) Observações Naturalistas | Bruno Uehara, some rights reserved (CC BY-NC), uploaded by Observações Naturalistas | Bruno Uehara",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/250980259/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/250980259/square.jpg",
+    "attribution": "(c) jessie-diver, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52826439/medium.png",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/52826439/square.png",
+    "attribution": "(c) onidiras-iNaturalist, some rights reserved (CC BY-NC), uploaded by onidiras-iNaturalist",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "oleander": {
+  "taxonId": 47563,
+  "taxonName": "Nerium oleander",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/392455529/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/392455529/square.jpeg",
+    "attribution": "(c) Cheng-wei, Liu (Jack), some rights reserved (CC BY-NC), uploaded by Cheng-wei, Liu (Jack)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9512852/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/9512852/square.jpeg",
+    "attribution": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181978365/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/181978365/square.jpg",
+    "attribution": "(c) anjalibritto00, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7891494/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7891494/square.jpeg",
+    "attribution": "(c) reddad, some rights reserved (CC BY-NC), uploaded by reddad",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113095212/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/113095212/square.jpeg",
+    "attribution": "(c) Santiago Martín-Bravo, some rights reserved (CC BY), uploaded by Santiago Martín-Bravo",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "red-twig-dogwood": {
+  "taxonId": 53387,
+  "taxonName": "Cornus sericea",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/49973133/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/49973133/square.jpg",
+    "attribution": "(c) cwtw, some rights reserved (CC BY-NC), uploaded by cwtw",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/209754345/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/209754345/square.jpg",
+    "attribution": "(c) odinbriem0, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/134664251/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/134664251/square.jpg",
+    "attribution": "(c) freejinn, some rights reserved (CC BY-NC), uploaded by freejinn",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/258224096/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/258224096/square.jpeg",
+    "attribution": "(c) konstantin_m, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11716342/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/11716342/square.jpeg",
+    "attribution": "(c) judith holm, some rights reserved (CC BY-NC-ND), uploaded by judith holm",
+    "license": "cc-by-nc-nd"
+   }
+  ]
+ },
+ "rhododendron": {
+  "taxonId": 49486,
+  "taxonName": "Rhododendron catawbiense",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/86538698/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/86538698/square.jpg",
+    "attribution": "(c) Patrick Coin, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10989/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10989/square.jpg",
+    "attribution": "(c) Lindley Ashline, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203999473/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/203999473/square.jpeg",
+    "attribution": "(c) Andy Bridges, some rights reserved (CC BY-NC), uploaded by Andy Bridges",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160875925/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/160875925/square.jpg",
+    "attribution": "(c) emmafagerberg, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1394676/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1394676/square.jpg",
+    "attribution": "(c) jocelyndale, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   }
+  ]
+ },
+ "japanese-maple": {
+  "taxonId": 1466300,
+  "taxonName": "Acer palmatum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2651499/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2651499/square.jpg",
+    "attribution": "(c) harum.koh, some rights reserved (CC BY-SA), uploaded by harum.koh",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/135870395/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/135870395/square.jpg",
+    "attribution": "(c) Timur Kalininsky, some rights reserved (CC BY), uploaded by Timur Kalininsky",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146544542/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/146544542/square.jpeg",
+    "attribution": "(c) Gavin Slater, some rights reserved (CC BY), uploaded by Gavin Slater",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167521834/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/167521834/square.jpeg",
+    "attribution": "(c) Mike Splain, some rights reserved (CC BY-ND), uploaded by Mike Splain",
+    "license": "cc-by-nd"
+   }
+  ]
+ },
+ "redbud": {
+  "taxonId": 48502,
+  "taxonName": "Cercis canadensis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281160261/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/281160261/square.jpg",
+    "attribution": "(c) uwuowoeweawaiwi, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/84793374/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/84793374/square.jpeg",
+    "attribution": "(c) synthmoth, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/146752176/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/146752176/square.jpg",
+    "attribution": "(c) dbarronoss, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/355954602/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/355954602/square.jpeg",
+    "attribution": "(c) Eric Cormier, some rights reserved (CC BY-NC), uploaded by Eric Cormier",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20248/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/20248/square.jpg",
+    "attribution": "(c) J.R.M., some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "dogwood": {
+  "taxonId": 54777,
+  "taxonName": "Cornus florida",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15371883/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/15371883/square.jpeg",
+    "attribution": "(c) Ryan_Diener, some rights reserved (CC BY-NC), uploaded by Ryan_Diener",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/13587/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/13587/square.jpg",
+    "attribution": "(c) Erin and Lance Willett, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1156413/medium.JPG",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1156413/square.JPG",
+    "attribution": "(c) Linda Jo Conn, some rights reserved (CC BY-NC), uploaded by Linda Jo Conn",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56670756/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/56670756/square.jpg",
+    "attribution": "(c) kwillard, some rights reserved (CC BY-NC), uploaded by kwillard",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2164019/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2164019/square.jpg",
+    "attribution": "(c) Martin LaBar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "saucer-magnolia": {
+  "taxonId": 204586,
+  "taxonName": "Magnolia × soulangeana",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/246162/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/246162/square.jpg",
+    "attribution": "(c) Kew on Flickr, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65667560/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/65667560/square.jpg",
+    "attribution": "(c) toryc, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70222337/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/70222337/square.jpg",
+    "attribution": "(c) Badgernet, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/58701785/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/58701785/square.jpg",
+    "attribution": "(c) Matt Tomlinson, some rights reserved (CC BY-NC), uploaded by Matt Tomlinson",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70222339/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/70222339/square.jpg",
+    "attribution": "(c) Fernando de Gorocica, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   }
+  ]
+ },
+ "southern-magnolia": {
+  "taxonId": 83074,
+  "taxonName": "Magnolia grandiflora",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82254330/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82254330/square.jpg",
+    "attribution": "(c) 潘立傑 LiChieh Pan, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/169262925/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/169262925/square.jpg",
+    "attribution": "(c) ash_morgan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/557171383/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/557171383/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70227915/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/70227915/square.jpg",
+    "attribution": "(c) Pmsyyz, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82254015/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82254015/square.jpg",
+    "attribution": "(c) Natalie Tapson, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "sugar-maple": {
+  "taxonId": 1466282,
+  "taxonName": "Acer saccharum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/270771956/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/270771956/square.jpg",
+    "attribution": "(c) James St. John, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/482536/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/482536/square.jpg",
+    "attribution": "(c) scottmo, some rights reserved (CC BY-NC), uploaded by scottmo",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5475121/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/5475121/square.jpeg",
+    "attribution": "(c) Mario Rodrigo Chávez Chávez, some rights reserved (CC BY-NC), uploaded by Mario Rodrigo Chávez Chávez",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "serviceberry": {
+  "taxonId": 1091496,
+  "taxonName": "Amelanchier × lamarckii",
+  "exact": false,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6872034/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/6872034/square.jpg",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129105921/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/129105921/square.jpeg",
+    "attribution": "(c) marsusram, some rights reserved (CC BY-NC), uploaded by marsusram",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129105904/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/129105904/square.jpeg",
+    "attribution": "(c) marsusram, some rights reserved (CC BY-NC), uploaded by marsusram",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/37439827/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/37439827/square.jpg",
+    "attribution": "(c) Philip Mark Osso, some rights reserved (CC BY-NC), uploaded by Philip Mark Osso",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10819/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10819/square.jpg",
+    "attribution": "(c) Werner, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   }
+  ]
+ },
+ "crape-myrtle": {
+  "taxonId": 135394,
+  "taxonName": "Lagerstroemia indica",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/203337469/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/203337469/square.jpeg",
+    "attribution": "(c) Rich_Yang, some rights reserved (CC BY-NC), uploaded by Rich_Yang",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/273276339/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/273276339/square.jpg",
+    "attribution": "(c) Diego Monsores, some rights reserved (CC BY-NC), uploaded by Diego Monsores",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/302684301/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/302684301/square.jpg",
+    "attribution": "(c) Tom Ameye, some rights reserved (CC BY-NC), uploaded by Tom Ameye",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/93866513/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/93866513/square.jpg",
+    "attribution": "(c) Tamara, some rights reserved (CC BY-NC), uploaded by Tamara",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "paper-birch": {
+  "taxonId": 49883,
+  "taxonName": "Betula papyrifera",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/100915045/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/100915045/square.jpg",
+    "attribution": "(c) Peter Jessen, some rights reserved (CC BY-NC), uploaded by Peter Jessen",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7963576/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7963576/square.jpg",
+    "attribution": "no rights reserved, uploaded by Dezene Huber",
+    "license": "cc0"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/165906643/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/165906643/square.jpg",
+    "attribution": "(c) Joshua Mayer, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11526723/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/11526723/square.jpeg",
+    "attribution": "(c) Joanne Muis Redwood, some rights reserved (CC BY-NC), uploaded by Joanne Muis Redwood",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8683551/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8683551/square.jpeg",
+    "attribution": "(c) Matt Bowser, some rights reserved (CC BY), uploaded by Matt Bowser",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "blue-spruce": {
+  "taxonId": 119092,
+  "taxonName": "Picea pungens",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/389275799/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/389275799/square.jpeg",
+    "attribution": "(c) Stephen Petersen, some rights reserved (CC BY-NC), uploaded by Stephen Petersen",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/83277975/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/83277975/square.jpeg",
+    "attribution": "(c) Hannah Floyd, some rights reserved (CC BY-NC), uploaded by Hannah Floyd",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167612839/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/167612839/square.jpg",
+    "attribution": "(c) Jeff Bisbee, some rights reserved (CC BY-NC), uploaded by Jeff Bisbee",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/248920145/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/248920145/square.jpg",
+    "attribution": "(c) Catherine, some rights reserved (CC BY-NC), uploaded by Catherine",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/432310073/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/432310073/square.jpeg",
+    "attribution": "(c) Phyllis Holst, some rights reserved (CC BY-NC), uploaded by Phyllis Holst",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "weeping-willow": {
+  "taxonId": 58316,
+  "taxonName": "Salix babylonica",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/21231731/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/21231731/square.jpeg",
+    "attribution": "(c) Carlos Eduardo Simental Crespo, some rights reserved (CC BY-NC), uploaded by Carlos Eduardo Simental Crespo",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2178790/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2178790/square.jpg",
+    "attribution": "(c) eagleloft, some rights reserved (CC BY-NC), uploaded by eagleloft",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/125971533/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/125971533/square.jpeg",
+    "attribution": "(c) Věra Kafková, some rights reserved (CC BY-NC), uploaded by Věra Kafková",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65992874/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/65992874/square.jpeg",
+    "attribution": "(c) Sandra Falanga, some rights reserved (CC BY-NC), uploaded by Sandra Falanga",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/65992848/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/65992848/square.jpeg",
+    "attribution": "(c) Sandra Falanga, some rights reserved (CC BY-NC), uploaded by Sandra Falanga",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "kwanzan-cherry": {
+  "taxonId": 125742,
+  "taxonName": "Prunus serrulata",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/90432717/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/90432717/square.jpeg",
+    "attribution": "(c) pigrodri, some rights reserved (CC BY-NC), uploaded by pigrodri",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191276/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/30191276/square.jpeg",
+    "attribution": "(c) John Luck, some rights reserved (CC BY-NC), uploaded by John Luck",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/30084777/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/30084777/square.jpeg",
+    "attribution": "no rights reserved, uploaded by Jenny Christianson",
+    "license": "cc0"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/64934544/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/64934544/square.jpg",
+    "attribution": "(c) heliamphora, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/126365089/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/126365089/square.jpeg",
+    "attribution": "(c) Joanne Muis Redwood, some rights reserved (CC BY-NC), uploaded by Joanne Muis Redwood",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "ginkgo": {
+  "taxonId": 64350,
+  "taxonName": "Ginkgo biloba",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397250612/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/397250612/square.jpeg",
+    "attribution": "(c) 鐦鍆錒/锎钔锕（Man Hoimoon）, some rights reserved (CC BY-NC), uploaded by 鐦鍆錒/锎钔锕（Man Hoimoon）",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/438174822/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/438174822/square.jpeg",
+    "attribution": "(c) yuu kii, some rights reserved (CC BY-NC), uploaded by yuu kii",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/642926817/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/642926817/square.jpg",
+    "attribution": "(c) 藜梓柠, some rights reserved (CC BY-NC), uploaded by 藜梓柠",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69936348/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/69936348/square.jpg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY), uploaded by Marco Mussita",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119137630/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/119137630/square.jpeg",
+    "attribution": "(c) Wang.QG, some rights reserved (CC BY), uploaded by Wang.QG",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "crabapple": {
+  "taxonId": 54500,
+  "taxonName": "Malus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/14004/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/14004/square.jpg",
+    "attribution": "(c) Gerhard Singer, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/190740425/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/190740425/square.jpg",
+    "attribution": "(c) Paul Marcum, some rights reserved (CC BY-NC), uploaded by Paul Marcum",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60294274/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/60294274/square.jpg",
+    "attribution": "(c) Aleksandr Naumenko, some rights reserved (CC BY-NC), uploaded by Aleksandr Naumenko",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17945222/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/17945222/square.jpg",
+    "attribution": "(c) ThePrairiePreacher, some rights reserved (CC BY-NC), uploaded by ThePrairiePreacher",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/60294264/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/60294264/square.jpg",
+    "attribution": "(c) Aleksandr Naumenko, some rights reserved (CC BY-NC), uploaded by Aleksandr Naumenko",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "olive": {
+  "taxonId": 57140,
+  "taxonName": "Olea europaea",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/71271675/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/71271675/square.jpeg",
+    "attribution": "(c) Alan Dandie, some rights reserved (CC BY-NC), uploaded by Alan Dandie",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87194494/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/87194494/square.jpg",
+    "attribution": "(c) Pescalune Photo, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/87194495/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/87194495/square.jpg",
+    "attribution": "(c) Mauricio Mercadante, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11780/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/11780/square.jpg",
+    "attribution": "(c) Ferran Turmo Gort, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11782/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/11782/square.jpg",
+    "attribution": "(c) Ãngel HernansÃ¡ez, some rights reserved (CC BY-ND)",
+    "license": "cc-by-nd"
+   }
+  ]
+ },
+ "live-oak": {
+  "taxonId": 49013,
+  "taxonName": "Quercus virginiana",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/56778997/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/56778997/square.jpg",
+    "attribution": "(c) John Winder, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/26900290/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/26900290/square.jpeg",
+    "attribution": "(c) Dusty, some rights reserved (CC BY-NC), uploaded by Dusty",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/47800890/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/47800890/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541651906/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/541651906/square.jpg",
+    "attribution": "(c) Don Sniegowski, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/541651894/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/541651894/square.jpg",
+    "attribution": "(c) Calmuziclover, some rights reserved (CC BY)",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "italian-cypress": {
+  "taxonId": 64261,
+  "taxonName": "Cupressus sempervirens",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/156646188/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/156646188/square.jpg",
+    "attribution": "(c) Alenka Mihoric, some rights reserved (CC BY-NC), uploaded by Alenka Mihoric",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8573212/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8573212/square.jpeg",
+    "attribution": "(c) Rockhopper2, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111962570/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111962570/square.jpg",
+    "attribution": "(c) Manuel Schwarz, some rights reserved (CC BY), uploaded by Manuel Schwarz",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8573204/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8573204/square.jpg",
+    "attribution": "(c) Taoujouti Abdelmouhaïmen, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111962584/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111962584/square.jpg",
+    "attribution": "(c) Manuel Schwarz, some rights reserved (CC BY), uploaded by Manuel Schwarz",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "windmill-palm": {
+  "taxonId": 64323,
+  "taxonName": "Trachycarpus fortunei",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/418335608/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/418335608/square.jpeg",
+    "attribution": "(c) ChuSR, some rights reserved (CC BY-NC), uploaded by ChuSR",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/69810679/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/69810679/square.jpg",
+    "attribution": "(c) Marco Mussita, some rights reserved (CC BY), uploaded by Marco Mussita",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/138155148/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/138155148/square.jpeg",
+    "attribution": "(c) Alexander Rumpel, some rights reserved (CC BY-NC), uploaded by Alexander Rumpel",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/119284924/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/119284924/square.jpeg",
+    "attribution": "(c) brucedc, some rights reserved (CC BY-NC), uploaded by brucedc",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7551571/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7551571/square.jpg",
+    "attribution": "no rights reserved, uploaded by Peter de Lange",
+    "license": "cc0"
+   }
+  ]
+ },
+ "new-england-aster": {
+  "taxonId": 117443,
+  "taxonName": "Symphyotrichum novae-angliae",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52293886/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/52293886/square.jpg",
+    "attribution": "(c) musicmanz, some rights reserved (CC BY-NC), uploaded by musicmanz",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/184330273/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/184330273/square.jpg",
+    "attribution": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235596003/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/235596003/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10566503/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10566503/square.jpg",
+    "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/235595944/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/235595944/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "aromatic-aster": {
+  "taxonId": 119343,
+  "taxonName": "Symphyotrichum oblongifolium",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10588620/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10588620/square.jpg",
+    "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/51971055/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/51971055/square.jpeg",
+    "attribution": "(c) rayrob, some rights reserved (CC BY-NC), uploaded by rayrob",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/25592667/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/25592667/square.jpeg",
+    "attribution": "(c) rayrob, some rights reserved (CC BY-NC), uploaded by rayrob",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "coneflower": {
+  "taxonId": 48627,
+  "taxonName": "Echinacea purpurea",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/433818/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/433818/square.jpg",
+    "attribution": "(c) Virginia (Ginny) Sanderson, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/563980339/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/563980339/square.jpg",
+    "attribution": "(c) Isaac Krauss, some rights reserved (CC BY-NC), uploaded by Isaac Krauss",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53975402/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/53975402/square.jpeg",
+    "attribution": "(c) schiav96, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/29556621/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/29556621/square.jpg",
+    "attribution": "(c) Sandy Wolkenberg, some rights reserved (CC BY), uploaded by Sandy Wolkenberg",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112531883/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/112531883/square.jpg",
+    "attribution": "(c) James St. John, some rights reserved (CC BY)",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "black-eyed-susan": {
+  "taxonId": 142654,
+  "taxonName": "Rudbeckia fulgida",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1471130/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1471130/square.jpg",
+    "attribution": "(c) Kai Yan,  Joseph Wong, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/24970416/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/24970416/square.jpg",
+    "attribution": "(c) ThePrairiePreacher, some rights reserved (CC BY-NC), uploaded by ThePrairiePreacher",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20638587/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/20638587/square.jpg",
+    "attribution": "(c) ThePrairiePreacher, some rights reserved (CC BY-NC), uploaded by ThePrairiePreacher",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/111231204/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/111231204/square.jpg",
+    "attribution": "(c) Caitlyn, some rights reserved (CC BY-NC), uploaded by Caitlyn",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/309345331/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/309345331/square.jpg",
+    "attribution": "(c) Mark Pollock, some rights reserved (CC BY), uploaded by Mark Pollock",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "peony": {
+  "taxonId": 127857,
+  "taxonName": "Paeonia lactiflora",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/113190686/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/113190686/square.jpg",
+    "attribution": "(c) Светлана Нестерова, some rights reserved (CC BY-NC), uploaded by Светлана Нестерова",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108140624/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/108140624/square.jpeg",
+    "attribution": "(c) Светлана Мещерягина, some rights reserved (CC BY-NC), uploaded by Светлана Мещерягина",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183472/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/33183472/square.jpeg",
+    "attribution": "(c) V.S. Volkotrub, some rights reserved (CC BY-NC), uploaded by V.S. Volkotrub",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/386383345/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/386383345/square.jpg",
+    "attribution": "(c) Shane S, some rights reserved (CC BY-NC), uploaded by Shane S",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/95682969/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/95682969/square.jpeg",
+    "attribution": "(c) sergeyprokopenko, some rights reserved (CC BY-NC), uploaded by sergeyprokopenko",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "daylily": {
+  "taxonId": 82826,
+  "taxonName": "Hemerocallis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82351245/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82351245/square.jpg",
+    "attribution": "(c) Susan Elliott, some rights reserved (CC BY-NC), uploaded by Susan Elliott",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/395659441/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/395659441/square.jpeg",
+    "attribution": "(c) Елена Одинцева, some rights reserved (CC BY-NC), uploaded by Елена Одинцева",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/449633825/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/449633825/square.jpeg",
+    "attribution": "(c) anatoliipomortsev, some rights reserved (CC BY-NC), uploaded by anatoliipomortsev",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9251316/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/9251316/square.jpg",
+    "attribution": "(c) Ken Potter, some rights reserved (CC BY-NC), uploaded by Ken Potter",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/79405073/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/79405073/square.jpg",
+    "attribution": "(c) Oleg Kosterin, some rights reserved (CC BY), uploaded by Oleg Kosterin",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "garden-phlox": {
+  "taxonId": 117437,
+  "taxonName": "Phlox paniculata",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/22782713/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/22782713/square.jpeg",
+    "attribution": "(c) Joanne Muis Redwood, some rights reserved (CC BY-NC), uploaded by Joanne Muis Redwood",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/10246911/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/10246911/square.jpeg",
+    "attribution": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/9157794/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/9157794/square.jpeg",
+    "attribution": "(c) cassi saari, some rights reserved (CC BY-NC), uploaded by cassi saari",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "autumn-joy-sedum": {
+  "taxonId": 163908,
+  "taxonName": "Hylotelephium spectabile",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/97153450/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/97153450/square.jpg",
+    "attribution": "(c) pmhess, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "catmint": {
+  "taxonId": 410913,
+  "taxonName": "Nepeta × faassenii",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/155914545/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/155914545/square.jpg",
+    "attribution": "(c) David Hocken, some rights reserved (CC BY-NC), uploaded by David Hocken",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170199904/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/170199904/square.jpg",
+    "attribution": "(c) Olga Eremenko, some rights reserved (CC BY-NC), uploaded by Olga Eremenko",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140139716/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/140139716/square.jpeg",
+    "attribution": "(c) ponpon42, some rights reserved (CC BY), uploaded by ponpon42",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/140139701/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/140139701/square.jpeg",
+    "attribution": "(c) ponpon42, some rights reserved (CC BY), uploaded by ponpon42",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "may-night-salvia": {
+  "taxonId": 168387,
+  "taxonName": "Salvia nemorosa",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/200741444/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/200741444/square.jpg",
+    "attribution": "(c) mnauky, some rights reserved (CC BY), uploaded by mnauky",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201308295/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/201308295/square.jpg",
+    "attribution": "(c) mggbird, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/197745349/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/197745349/square.jpeg",
+    "attribution": "(c) Margit Gross, some rights reserved (CC BY-NC), uploaded by Margit Gross",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3983930/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3983930/square.jpg",
+    "attribution": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8014764/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8014764/square.jpg",
+    "attribution": "(c) Ioana Mita, some rights reserved (CC BY-NC), uploaded by Ioana Mita",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "bee-balm": {
+  "taxonId": 52735,
+  "taxonName": "Monarda didyma",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/300505594/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/300505594/square.jpeg",
+    "attribution": "(c) William Van Hemessen, some rights reserved (CC BY-NC), uploaded by William Van Hemessen",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/320811189/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/320811189/square.jpeg",
+    "attribution": "(c) Laura Thomas, some rights reserved (CC BY-NC), uploaded by Laura Thomas",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/530716084/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/530716084/square.jpg",
+    "attribution": "(c) Rodney Haynes, some rights reserved (CC BY-NC), uploaded by Rodney Haynes",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/298921070/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/298921070/square.jpeg",
+    "attribution": "(c) William Van Hemessen, some rights reserved (CC BY-NC), uploaded by William Van Hemessen",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "shasta-daisy": {
+  "taxonId": 170837,
+  "taxonName": "Leucanthemum × superbum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3926095/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3926095/square.jpg",
+    "attribution": "(c) Christian Schwarz, some rights reserved (CC BY-NC), uploaded by Christian Schwarz",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/571210/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/571210/square.jpg",
+    "attribution": "(c) daryl_mitchell, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   }
+  ]
+ },
+ "astilbe": {
+  "taxonId": 51806,
+  "taxonName": "Astilbe",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/570061/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/570061/square.jpg",
+    "attribution": "(c) raz1940 et Charlotte, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/55838632/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/55838632/square.jpg",
+    "attribution": "(c) malachilentz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/8638352/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/8638352/square.jpg",
+    "attribution": "(c) Kevin Metcalf, some rights reserved (CC BY-NC), uploaded by Kevin Metcalf",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/5727266/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/5727266/square.jpeg",
+    "attribution": "(c) Matt Rung, some rights reserved (CC BY-NC), uploaded by Matt Rung",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "coral-bells": {
+  "taxonId": 51274,
+  "taxonName": "Heuchera micrantha",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/70200350/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/70200350/square.jpeg",
+    "attribution": "(c) Nicola Rammell, some rights reserved (CC BY-NC), uploaded by Nicola Rammell",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/201029027/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/201029027/square.jpg",
+    "attribution": "(c) Stefan, some rights reserved (CC BY-NC), uploaded by Stefan",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7885463/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7885463/square.jpg",
+    "attribution": "(c) Todd Ramsden, some rights reserved (CC BY-NC), uploaded by Todd Ramsden",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/971066/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/971066/square.jpg",
+    "attribution": "(c) David A. Hofmann, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3498/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3498/square.jpg",
+    "attribution": "(c) Doris, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   }
+  ]
+ },
+ "bleeding-heart": {
+  "taxonId": 204340,
+  "taxonName": "Lamprocapnos spectabilis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/487625794/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/487625794/square.jpg",
+    "attribution": "(c) to.wi, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/7446890/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/7446890/square.jpeg",
+    "attribution": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/3292903/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/3292903/square.jpg",
+    "attribution": "(c) Rebecca Stapornkul, some rights reserved (CC BY-NC), uploaded by Rebecca Stapornkul",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35794296/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/35794296/square.jpg",
+    "attribution": "(c) Amanda Plante, some rights reserved (CC BY-NC), uploaded by Amanda Plante",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "ostrich-fern": {
+  "taxonId": 82574,
+  "taxonName": "Matteuccia struthiopteris",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/394351700/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/394351700/square.jpeg",
+    "attribution": "(c) Tom Norton, some rights reserved (CC BY), uploaded by Tom Norton",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/108029138/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/108029138/square.jpeg",
+    "attribution": "(c) Boris Bolshakov, some rights reserved (CC BY-NC), uploaded by Boris Bolshakov",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/356312498/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/356312498/square.jpg",
+    "attribution": "(c) Piotr Kobierski, some rights reserved (CC BY-NC), uploaded by Piotr Kobierski",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/936418/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/936418/square.jpg",
+    "attribution": "(c) Mark Avery, some rights reserved (CC BY-NC), uploaded by Mark Avery",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1052175/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1052175/square.jpg",
+    "attribution": "(c) naturalheritagetech, some rights reserved (CC BY-NC), uploaded by naturalheritagetech",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "christmas-fern": {
+  "taxonId": 54412,
+  "taxonName": "Polystichum acrostichoides",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/657065592/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/657065592/square.jpg",
+    "attribution": "(c) earthtoerin, some rights reserved (CC BY-NC), uploaded by earthtoerin",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/198714870/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/198714870/square.jpeg",
+    "attribution": "(c) William Van Hemessen, some rights reserved (CC BY-NC), uploaded by William Van Hemessen",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/397416008/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/397416008/square.jpg",
+    "attribution": "(c) Ashley M Bradford, some rights reserved (CC BY-NC), uploaded by Ashley M Bradford",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/136517538/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/136517538/square.jpg",
+    "attribution": "(c) Patti A. Edens, some rights reserved (CC BY-NC-ND), uploaded by Patti A. Edens",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/186418768/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/186418768/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "painted-fern": {
+  "taxonId": 142824,
+  "taxonName": "Athyrium niponicum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/145838801/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/145838801/square.jpg",
+    "attribution": "(c) tlit46, some rights reserved (CC BY-NC), uploaded by tlit46",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/20030010/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/20030010/square.jpg",
+    "attribution": "(c) charm, some rights reserved (CC BY-NC), uploaded by charm",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/35774451/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/35774451/square.jpg",
+    "attribution": "(c) ajhartz, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/129065978/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/129065978/square.jpeg",
+    "attribution": "(c) 茶棚, some rights reserved (CC BY-NC), uploaded by 茶棚",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "lady-fern": {
+  "taxonId": 52669,
+  "taxonName": "Athyrium filix-femina",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/91587454/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/91587454/square.jpeg",
+    "attribution": "(c) jacquelinerose, some rights reserved (CC BY-NC), uploaded by jacquelinerose",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/157113/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/157113/square.jpg",
+    "attribution": "(c) Ken-ichi Ueda, some rights reserved (CC BY)",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2071508/square.jpg",
+    "attribution": "(c) Wendy Feltham, some rights reserved (CC BY-NC), uploaded by Wendy Feltham",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/1467538/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/1467538/square.jpg",
+    "attribution": "(c) Erwin Gruber, some rights reserved (CC BY), uploaded by Erwin Gruber",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/4357299/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/4357299/square.jpg",
+    "attribution": "(c) Lena Dietz Chiasson, some rights reserved (CC BY-NC), uploaded by Lena Dietz Chiasson",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "autumn-fern": {
+  "taxonId": 137722,
+  "taxonName": "Dryopteris erythrosora",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/133824012/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/133824012/square.jpg",
+    "attribution": "(c) MP Zhou, some rights reserved (CC BY-NC), uploaded by MP Zhou",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112157310/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/112157310/square.jpeg",
+    "attribution": "(c) jim_keesling, some rights reserved (CC BY-NC), uploaded by jim_keesling",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/53678263/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/53678263/square.jpg",
+    "attribution": "(c) ifetayotyler, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230238682/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/230238682/square.jpg",
+    "attribution": "(c) ranias, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/230309235/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/230309235/square.jpg",
+    "attribution": "(c) Dean Firth, some rights reserved (CC BY-NC), uploaded by Dean Firth",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "maidenhair-fern": {
+  "taxonId": 48435,
+  "taxonName": "Adiantum pedatum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351775679/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/351775679/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/351775715/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/351775715/square.jpeg",
+    "attribution": "(c) Michael J. Papay, some rights reserved (CC BY), uploaded by Michael J. Papay",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/17784639/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/17784639/square.jpg",
+    "attribution": "(c) aarongunnar, some rights reserved (CC BY), uploaded by aarongunnar",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346707343/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/346707343/square.jpg",
+    "attribution": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346707384/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/346707384/square.jpg",
+    "attribution": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "cinnamon-fern": {
+  "taxonId": 204165,
+  "taxonName": "Osmundastrum cinnamomeum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/474133558/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/474133558/square.jpg",
+    "attribution": "(c) Michael Newlon, some rights reserved (CC BY), uploaded by Michael Newlon",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/128609754/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/128609754/square.jpeg",
+    "attribution": "(c) Rose Roberts, some rights reserved (CC BY-NC), uploaded by Rose Roberts",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61106910/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/61106910/square.jpeg",
+    "attribution": "(c) Susan Fawcett, some rights reserved (CC BY-NC), uploaded by Susan Fawcett",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/281364910/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/281364910/square.jpg",
+    "attribution": "(c) Frank Morgan, some rights reserved (CC BY-SA), uploaded by Frank Morgan",
+    "license": "cc-by-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/280105783/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/280105783/square.jpeg",
+    "attribution": "no rights reserved, uploaded by Tim Kirsten",
+    "license": "cc0"
+   }
+  ]
+ },
+ "sword-fern": {
+  "taxonId": 47751,
+  "taxonName": "Polystichum munitum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/412744739/square.jpeg",
+    "attribution": "(c) mme_renn, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/2837084/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/2837084/square.jpg",
+    "attribution": "(c) Don Loarie, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/879722/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/879722/square.jpg",
+    "attribution": "(c) Anthony Mendoza, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/879724/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/879724/square.jpg",
+    "attribution": "(c) kqedquest, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/879725/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/879725/square.jpg",
+    "attribution": "(c) brewbooks, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa"
+   }
+  ]
+ },
+ "snowdrop": {
+  "taxonId": 51606,
+  "taxonName": "Galanthus nivalis",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/346197942/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/346197942/square.jpeg",
+    "attribution": "(c) nvicens, some rights reserved (CC BY-NC), uploaded by nvicens",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/176914826/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/176914826/square.jpeg",
+    "attribution": "(c) alessandro longhi, some rights reserved (CC BY-NC-ND), uploaded by alessandro longhi",
+    "license": "cc-by-nc-nd"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/259885224/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/259885224/square.jpeg",
+    "attribution": "(c) adinie, some rights reserved (CC BY-NC), uploaded by adinie",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/352153794/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/352153794/square.jpeg",
+    "attribution": "(c) Dragonfyre, some rights reserved (CC BY-NC), uploaded by Dragonfyre",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/112148867/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/112148867/square.jpg",
+    "attribution": "(c) Valentin Hamon, some rights reserved (CC BY-NC), uploaded by Valentin Hamon",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "crocus": {
+  "taxonId": 1371920,
+  "taxonName": "Crocus vernus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/116400542/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/116400542/square.jpg",
+    "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115889734/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/115889734/square.jpg",
+    "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/115889861/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/115889861/square.jpg",
+    "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/6761041/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/6761041/square.jpeg",
+    "attribution": "(c) Jakub Pełka, some rights reserved (CC BY-NC), uploaded by Jakub Pełka",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "daffodil": {
+  "taxonId": 53597,
+  "taxonName": "Narcissus",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/16009641/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/16009641/square.jpeg",
+    "attribution": "(c) adri6, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/61985980/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/61985980/square.jpg",
+    "attribution": "(c) Maria Emília Martins, some rights reserved (CC BY-NC-SA), uploaded by Maria Emília Martins",
+    "license": "cc-by-nc-sa"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/181031163/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/181031163/square.jpg",
+    "attribution": "(c) Christoph Schmidtlein, some rights reserved (CC BY-NC), uploaded by Christoph Schmidtlein",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/105812633/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/105812633/square.jpeg",
+    "attribution": "(c) Yael Orgad, some rights reserved (CC BY-NC), uploaded by Yael Orgad",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/144920120/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/144920120/square.jpg",
+    "attribution": "(c) David~O, some rights reserved (CC BY)",
+    "license": "cc-by"
+   }
+  ]
+ },
+ "tulip": {
+  "taxonId": 55800,
+  "taxonName": "Tulipa",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118436887/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/118436887/square.jpeg",
+    "attribution": "(c) Вадим, some rights reserved (CC BY-NC), uploaded by Вадим",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/59432490/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/59432490/square.jpg",
+    "attribution": "(c) vladimir_epiktetov, some rights reserved (CC BY-NC), uploaded by vladimir_epiktetov",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855133/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/170855133/square.jpg",
+    "attribution": "(c) Alenka Mihoric, some rights reserved (CC BY-NC), uploaded by Alenka Mihoric",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/57829718/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/57829718/square.jpeg",
+    "attribution": "(c) Aleksandr Popov / Александр Попов, some rights reserved (CC BY-NC), uploaded by Aleksandr Popov / Александр Попов",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/342790504/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/342790504/square.jpg",
+    "attribution": "(c) Paolo Val, some rights reserved (CC BY-NC), uploaded by Paolo Val",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "grape-hyacinth": {
+  "taxonId": 57847,
+  "taxonName": "Muscari armeniacum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/189814575/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/189814575/square.jpg",
+    "attribution": "(c) Norbert Sauberer, some rights reserved (CC BY-NC), uploaded by Norbert Sauberer",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/187054242/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/187054242/square.jpeg",
+    "attribution": "(c) Patrick Hacker, some rights reserved (CC BY), uploaded by Patrick Hacker",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/34653200/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/34653200/square.jpg",
+    "attribution": "(c) mapsurfer, some rights reserved (CC BY-NC), uploaded by mapsurfer",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/363343654/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/363343654/square.jpg",
+    "attribution": "(c) Radim Paulič, some rights reserved (CC BY-NC), uploaded by Radim Paulič",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/36066214/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/36066214/square.jpeg",
+    "attribution": "(c) lsimuns, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "allium": {
+  "taxonId": 550792,
+  "taxonName": "Allium giganteum",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114262754/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/114262754/square.jpg",
+    "attribution": "(c) Наталья Бешко, some rights reserved (CC BY-NC), uploaded by Наталья Бешко",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/82786906/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/82786906/square.jpeg",
+    "attribution": "(c) Josh Pulito, some rights reserved (CC BY-NC), uploaded by Josh Pulito",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/114262837/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/114262837/square.jpg",
+    "attribution": "(c) Наталья Бешко, some rights reserved (CC BY-NC), uploaded by Наталья Бешко",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/234300925/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/234300925/square.jpeg",
+    "attribution": "(c) Thomas Wrbka, some rights reserved (CC BY-NC), uploaded by Thomas Wrbka",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/292570078/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/292570078/square.jpg",
+    "attribution": "(c) kxrv66m, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "asiatic-lily": {
+  "taxonId": 48928,
+  "taxonName": "Lilium",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/210060579/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/210060579/square.jpg",
+    "attribution": "(c) Dayne Galash, some rights reserved (CC BY-NC), uploaded by Dayne Galash",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/81504709/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/81504709/square.jpeg",
+    "attribution": "(c) Morgan Stickrod, some rights reserved (CC BY-NC), uploaded by Morgan Stickrod",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/170556991/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/170556991/square.jpeg",
+    "attribution": "(c) Инна Хохлова, some rights reserved (CC BY-NC), uploaded by Инна Хохлова",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/143247052/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/143247052/square.jpeg",
+    "attribution": "(c) Morgan Stickrod, some rights reserved (CC BY-NC), uploaded by Morgan Stickrod",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/15557145/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/15557145/square.jpg",
+    "attribution": "(c) Alan Horstmann, some rights reserved (CC BY-NC), uploaded by Alan Horstmann",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "dahlia": {
+  "taxonId": 58465,
+  "taxonName": "Dahlia",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/31648580/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/31648580/square.jpg",
+    "attribution": "(c) Roberto Rodriguez, some rights reserved (CC BY), uploaded by Roberto Rodriguez",
+    "license": "cc-by"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/11167939/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/11167939/square.jpg",
+    "attribution": "(c) Heriberto Ávila-González, some rights reserved (CC BY-NC), uploaded by Heriberto Ávila-González",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/50967012/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/50967012/square.jpg",
+    "attribution": "(c) albertoham, some rights reserved (CC BY-NC), uploaded by albertoham",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/52175277/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/52175277/square.jpg",
+    "attribution": "(c) Chris Lloyd, some rights reserved (CC BY-NC), uploaded by Chris Lloyd",
+    "license": "cc-by-nc"
+   }
+  ]
+ },
+ "autumn-crocus": {
+  "taxonId": 1193207,
+  "taxonName": "Colchicum autumnale",
+  "exact": true,
+  "photos": [
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/118641054/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/118641054/square.jpeg",
+    "attribution": "(c) Thomas Wrbka, some rights reserved (CC BY-NC), uploaded by Thomas Wrbka",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/229286850/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/229286850/square.jpeg",
+    "attribution": "(c) lastovka, some rights reserved (CC BY-NC), uploaded by lastovka",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/435400515/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/435400515/square.jpg",
+    "attribution": "(c) dittant, some rights reserved (CC BY-NC), uploaded by dittant",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/167757773/medium.jpeg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/167757773/square.jpeg",
+    "attribution": "(c) Licínia, some rights reserved (CC BY-NC), uploaded by Licínia",
+    "license": "cc-by-nc"
+   },
+   {
+    "medium": "https://inaturalist-open-data.s3.amazonaws.com/photos/160817927/medium.jpg",
+    "square": "https://inaturalist-open-data.s3.amazonaws.com/photos/160817927/square.jpg",
+    "attribution": "(c) laura_o, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc"
+   }
+  ]
+ }
+}
