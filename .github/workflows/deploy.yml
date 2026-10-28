@@ -26,8 +26,12 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      # The site is served from /<repo-name>/, so asset paths need that prefix.
-      - run: npm run build -- --base=/${{ github.event.repository.name }}/
+      # With a custom domain (public/CNAME) the site is served from the root;
+      # otherwise it lives at <user>.github.io/<repo-name>/ and asset paths need that prefix.
+      - name: Build
+        run: |
+          if [ -s public/CNAME ]; then BASE=/; else BASE=/${{ github.event.repository.name }}/; fi
+          npm run build -- --base=$BASE
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

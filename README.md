@@ -26,6 +26,9 @@ npm run photos
 Every push to `main` builds the site and publishes it to GitHub Pages
 (`.github/workflows/deploy.yml`). One-time setup: repo **Settings → Pages → Source: GitHub Actions**.
 
+The site uses the custom domain in `public/CNAME` (verdial.app). Delete that file to go back to
+`<user>.github.io/garden-planner/`.
+
 ## Credits
 
 - Plant photos come from iNaturalist contributors under the Creative Commons license shown with each
